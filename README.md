@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new aggregator with Python Web3 library.**
 - 🌱 I'm currently learning: **📚 Rust Backend&Blockchain development.**
-- 💬 Ask me about: 💡** Java, Python, RESTful APIs, and SQL  **
+- 💬 Ask me about: 💡**Java, Python, RESTful APIs, and SQL.**
 
  **<h3 align="left">Skills</h3>**
 
