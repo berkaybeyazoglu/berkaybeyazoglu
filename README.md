@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/berkaybeyazoglu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/berkay-beyazoğlu-294067174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate Backend and Blockchain Developer, creating backend endpoints, creating services, databases, also connecting backend with web3 applications and developing smart contrats. Skilled in back-end technologies, with a knowledge on server side and also the optimization of program.</h3>**
+ <h3 align="left">🚀 Passionate **Backend** and **Blockchain Developer**, creating backend endpoints, services, databases, also connecting backend with web3 applications and developing smart contrats. Skilled in backend technologies, with a knowledge on server side and also the optimization of program.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
